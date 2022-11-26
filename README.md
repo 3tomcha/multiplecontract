@@ -9,6 +9,7 @@ smartcontractとsmartcontractが連携します
 ```
 "0x0000000000000000000000000000000000000000000000000000000000000055"
 ```
+<img width="1680" alt="スクリーンショット 2022-11-26 12 39 09" src="https://user-images.githubusercontent.com/15997287/204071111-451ed747-bd28-4f7f-a6b2-87d984bda290.png">
 
 OwnedTokenが生成されて、出力結果にアドレスが表示される
 ```
