@@ -17,6 +17,8 @@ OwnedTokenが生成されて、出力結果にアドレスが表示される
 	"0": "address: tokenAddress 0x02F024B95859661614f5e20Cdff0b47e48415e7f"
   }
 ```
+<img width="1680" alt="スクリーンショット 2022-11-26 12 40 14" src="https://user-images.githubusercontent.com/15997287/204071148-dbdbf1f1-71cd-4816-a660-aede517506f3.png">
+
 
 ## OwnedTokenの名前の確認
 ContractをOwnedTokenに変更し、AtAddressに先ほど生成されたトークンのアドレスを指定する
